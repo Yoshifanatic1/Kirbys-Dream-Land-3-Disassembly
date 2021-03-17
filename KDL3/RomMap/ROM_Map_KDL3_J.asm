@@ -43,7 +43,7 @@ macro KDL3_GlobalAssemblySettings()
 	!Define_Global_LicenseeName = "Nintendo"
 	!Define_Global_DeveloperName = "HAL Laboratory"
 	!Define_Global_ReleaseDate = "March 27, 1998"
-	!Define_Global_BaseROMMD5Hash = ""
+	!Define_Global_BaseROMMD5Hash = "b2f2d004ea640c3db66df958fce122b2"
 
 	!Define_Global_MakerCode = "01"
 	!Define_Global_GameCode = "AFJJ"
